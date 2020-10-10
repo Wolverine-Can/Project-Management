@@ -10,6 +10,8 @@ It is deployed to AWS. Try it yourself: [Project Management online](http://ec2-1
 - Restful routes and services API
 - Friendly and interactive UI
 
+## Technologies
+
 ### Front-end
 - Javascript, HTML, CSS
 - Bootstrap 4
