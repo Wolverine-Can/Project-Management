@@ -25,4 +25,4 @@ A Spring Boot web application for managers to manage projects and employees.
 - Spring Security
 
 ### Deployment
-- AWS EC2: http://ec2-13-56-150-8.us-west-1.compute.amazonaws.com:8080
+- AWS EC2
